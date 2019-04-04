@@ -1,0 +1,7 @@
+body {
+    margin: 0;
+    padding: 0;
+    background:white url("../img/image5.jpeg") no-repeat center;
+    background-size: cover;
+    height: 100vh;
+}
