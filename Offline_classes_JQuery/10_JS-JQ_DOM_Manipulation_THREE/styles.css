@@ -1,0 +1,49 @@
+nav{
+    background-color: orangered;
+    padding: 10px;
+}
+nav a{
+    color: white;
+    font-size: 20px;
+    margin-left: 20px;
+    font-weight: bold;
+}
+section{
+    text-align: center;
+    margin: 20px;
+}
+button{
+    padding: 14px 25px;
+    font-size: 20px;
+    background-color: blueviolet;
+    color: white;
+}
+table , th , td{
+    border: 2px solid orangered;
+    border-collapse: collapse;
+    padding: 15px;
+    font-size: 18px;
+    text-align: center;
+}
+table{
+    margin-top: 10px;
+    width: 100%;
+}
+thead{
+    background-color: lightcoral;
+    color: white;
+}
+tbody{
+    background-color: lightsalmon;
+}
+input[type='search']{
+    font-size: 30px;
+    height: 50px;
+    border: 1px solid gray;
+    outline: none;
+    border-radius: 5px;
+}
+input[type='search']:focus{
+    border: 1px solid blueviolet;
+    box-shadow: 0 0 5px blueviolet;
+}

@@ -1,0 +1,71 @@
+body{
+    margin-bottom: 200px;
+}
+nav{
+    background-color: orangered;
+    padding: 10px;
+}
+nav a{
+    color: white;
+    font-size: 20px;
+    margin-left: 20px;
+    font-weight: bold;
+}
+section{
+    background: linear-gradient(to right , orange , blue , orange);
+    text-align: center;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 20px;
+}
+h2{
+    color: white;
+}
+form{
+    box-shadow: 0 0 5px black;
+    width: 500px;
+    background-color: white;
+    padding: 15px;
+    margin: 15px auto;
+    border-radius: 5px;
+}
+select{
+    font-size: 25px;
+    height: 35px;
+    width: 200px;
+}
+form span{
+    font-size: 25px;
+    color: red;
+}
+input[type='text'],input[type='password'],input[type='number']{
+    font-size: 25px;
+    height: 35px;
+    border-radius: 10px;
+}
+input[type='checkbox']{
+    width: 25px;
+    height: 25px;
+}
+label{
+    font-size: 18px;
+}
+form h2{
+    font-family: "Comic Sans MS",sans-serif;
+    color: darkblue;
+    font-size: 30px;
+    margin: 0;
+}
+form textarea{
+    font-size: 18px;
+    border: 2px solid lightseagreen;
+    outline: none;
+    border-radius: 5px;
+    font-family: "Comic Sans MS",sans-serif;
+    margin: 10px;
+}
+pre{
+    text-align: left;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+}
